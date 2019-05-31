@@ -4,7 +4,7 @@ A login &amp; registration page With firebase authentication.
 this is a web application that allows a user to register an account or login with their social media platform credentials using firebase
 ## Tech/framework used
  <b>Built with:</b>
-- [Angular 7] (https://angular.io/)
+- [Angular 5] (https://angular.io/)
 
 
 
