@@ -84,7 +84,7 @@ git add Contributors.md
 
 Now commit those changes using the `git commit` command:
 ```
-git commit -m "Add <your-name> to SmartBanker"
+git commit -m "Add <your-name>"
 ```
 replacing `<your-name>` with your name.
 
